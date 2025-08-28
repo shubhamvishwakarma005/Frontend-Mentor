@@ -11,5 +11,10 @@ The images and logo's i used in this is from frontend Mentor only
 
 so basically all the major components are according to guidline itself .
 
+# CSS
+i am attaching two css file with this 
+# flex : so one using flex-box
+# grid : another using grid 
+
 
 
